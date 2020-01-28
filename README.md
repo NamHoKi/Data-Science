@@ -2,7 +2,7 @@
 ----------
 ## ML
 ##### Python 3.x
-##### sklearn practice
+##### ML practice
 ----------
 ## Install
 ##### pip3 install sckikit-learn
@@ -14,3 +14,6 @@
 ##### pip3 install scipy
 ----------
 ## Basic Machine Learning
+##### --
+----------
+
