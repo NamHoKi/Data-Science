@@ -17,7 +17,10 @@
 ##### --
 ----------
 ## Object
-##### ML practise
+### ML practise
+##### 회귀
+##### 분류
+##### 군집화
 ----------
 ## After
 ##### Tensorflow practise
